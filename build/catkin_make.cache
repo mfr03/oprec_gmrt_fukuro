@@ -1,0 +1,2 @@
+pkgTurtle
+-DCATKIN_DEVEL_PREFIX=/home/mafir03/gmrt_folder/turtleSoal/devel -DCMAKE_INSTALL_PREFIX=/home/mafir03/gmrt_folder/turtleSoal/install -G Unix Makefiles

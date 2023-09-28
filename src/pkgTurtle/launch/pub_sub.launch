@@ -1,0 +1,7 @@
+<launch>
+    <node name="publisher_node" pkg="pkgTurtle" type="publisher_node" output="screen">
+    </node>
+
+    <node name="subscriber_node" pkg="pkgTurtle" type="subscriber_node" output="screen">
+    </node>
+</launch>

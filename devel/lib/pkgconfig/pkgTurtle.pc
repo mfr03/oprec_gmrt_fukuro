@@ -1,0 +1,8 @@
+prefix=/home/mafir03/gmrt_folder/turtleSoal/devel
+
+Name: pkgTurtle
+Description: Description of pkgTurtle
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
